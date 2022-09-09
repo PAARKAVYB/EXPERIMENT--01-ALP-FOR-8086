@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
+```
 Name : PAARKAVY B
 Roll no : 212221230072
 Date of experiment : 09/09/2022
+```
 
 # AIM:
 To Write and execute ALP on fundamental arithmetic and logical operations.
